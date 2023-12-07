@@ -16,6 +16,7 @@ About the Project
 </br> 3)Technology Stack
 </br> 4)Screenshots
 </br> 5)Author
+
 </br> 🌐 About the Project <a name = "about_the_project"></a>
 </br>This project provides a sophisticated system for sentiment analysis of tweets related to online learning. The notebook covers:
 
