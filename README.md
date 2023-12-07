@@ -11,7 +11,7 @@
 </br>📝 Table of Contents
 
 About the Project
-</br>1)Key Features
+</br>1)Key Features 
 </br>2)Getting Started
 </br>3)Technology Stack
 </br>4)Screenshots
