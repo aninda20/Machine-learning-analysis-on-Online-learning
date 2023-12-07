@@ -6,7 +6,7 @@
 <h3 align="center">Advanced Sentiment Analysis of E-Learning Through Tweets
     <br> 
 </h3>
-<p>Welcome to the "Comprehensive Machine-Learning Analysis on Online Learning", a detailed Jupyter notebook project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
+<p>Welcome to the "Comprehensive Machine-Learning Analysis on Online Learning", a detailed project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
 
 </br>📝 Table of Contents
 
@@ -35,7 +35,7 @@ Detailed data preprocessing and exploratory data analysis.
 Follow the instructions provided in the notebook for setup and execution.
 ⛏️ Built With </br> <a name = "tech_stack"></a>
 
-Python </br>
+<br>Python </br>
 Jupyter Notebook </br>
 Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
 Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
