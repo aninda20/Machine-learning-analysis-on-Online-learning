@@ -45,4 +45,4 @@ Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 
 ✍️ Author <a name = "authors"></a>
 
-Your Name
+- [Aninda Mandal](https://github.com/aninda20)
