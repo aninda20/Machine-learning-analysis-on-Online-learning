@@ -1,4 +1,3 @@
-Comprehensive Machine-Learning Analysis on Online Learning
 <p align="center">
   <a href="" rel="noopener">
     <img width="80" alt="Online Learning Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/Logo1.JPG">
