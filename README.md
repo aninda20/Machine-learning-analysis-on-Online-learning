@@ -32,8 +32,8 @@ Detailed data preprocessing and exploratory data analysis.
 
 "git clone https://github.com/aninda20/Machine-learning-analysis-on-Online-learning"
 Follow the instructions provided in the notebook for setup and execution.
-⛏️ Built With </br> <a name = "tech_stack"></a>
 
+⛏️ Built With </br> <a name = "tech_stack"></a>
 <br>Python </br>
 Jupyter Notebook </br>
 Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
