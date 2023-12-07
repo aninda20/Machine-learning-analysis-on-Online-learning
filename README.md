@@ -22,6 +22,7 @@ This project provides a sophisticated system for sentiment analysis of tweets re
 The use of advanced machine learning models including Naïve Bayes, Support Vector Machine, Decision Tree, and Logistic Regression for sentiment analysis.
 Development of an RNN-LSTM neural network trained on a dataset of 59,904 tweets.
 Published research findings in Springer on the impact of this analysis in the field of e-learning.
+
 </br>🌟 Key Features <a name = "key_features"></a>
 
 Comprehensive sentiment analysis of tweets with a high degree of accuracy.
