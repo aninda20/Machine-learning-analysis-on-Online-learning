@@ -41,7 +41,6 @@ Follow the instructions provided in the notebook for setup and execution.
 4)Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 
 🤳 Screenshots <a name = "screenshots"></a>
-
 </br>![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/81e318aa-9dc1-43d9-ad10-6a5bf3419c1d)
 ![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/032fc57f-9df1-4b13-aad2-06a162759d46)
 ![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/b32838f0-9e2c-4f8d-a8df-8f79abf5adb3)
