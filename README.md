@@ -8,14 +8,15 @@ Comprehensive Machine-Learning Analysis on Online Learning
     <br> 
 </h3>
 <p>Welcome to the "Comprehensive Machine-Learning Analysis on Online Learning", a detailed Jupyter notebook project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
-📝 Table of Contents
+
+</br>📝 Table of Contents
 
 About the Project
-Key Features
-Getting Started
-Technology Stack
-Screenshots
-Author
+</br>1)Key Features
+</br>2)Getting Started
+</br>3)Technology Stack
+</br>4)Screenshots
+</br>4)Author
 🌐 About the Project <a name = "about_the_project"></a>
 This project provides a sophisticated system for sentiment analysis of tweets related to online learning. The notebook covers:
 
