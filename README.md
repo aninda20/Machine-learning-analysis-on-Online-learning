@@ -35,10 +35,10 @@ Detailed data preprocessing and exploratory data analysis.
 Follow the instructions provided in the notebook for setup and execution.
 
 </br>⛏️ Built With </br> <a name = "tech_stack"></a>
-<br>Python </br>
-Jupyter Notebook </br>
-Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
-Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
+<br>1)Python </br>
+2)Jupyter Notebook </br>
+3)Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
+4)Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 🤳 Screenshots <a name = "screenshots"></a>
 ![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/81e318aa-9dc1-43d9-ad10-6a5bf3419c1d)
 ![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/032fc57f-9df1-4b13-aad2-06a162759d46)
