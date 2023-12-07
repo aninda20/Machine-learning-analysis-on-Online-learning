@@ -1,7 +1,7 @@
 Comprehensive Machine-Learning Analysis on Online Learning
 <p align="center">
   <a href="" rel="noopener">
-    <img width="80" alt="Online Learning Logo" src="YOUR_LOGO_LINK">
+    <img width="80" alt="Online Learning Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/Logo1.JPG">
   </a>
 </p>
 <h3 align="center">Advanced Sentiment Analysis of E-Learning Through Tweets
