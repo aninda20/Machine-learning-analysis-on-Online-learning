@@ -17,7 +17,7 @@ About the Project
 </br> 4)Screenshots
 </br> 5)Author
 </br> 🌐 About the Project <a name = "about_the_project"></a>
-This project provides a sophisticated system for sentiment analysis of tweets related to online learning. The notebook covers:
+</br>This project provides a sophisticated system for sentiment analysis of tweets related to online learning. The notebook covers:
 
 The use of advanced machine learning models including Naïve Bayes, Support Vector Machine, Decision Tree, and Logistic Regression for sentiment analysis.
 Development of an RNN-LSTM neural network trained on a dataset of 59,904 tweets.
