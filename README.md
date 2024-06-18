@@ -6,7 +6,7 @@
 <h3 align="center">Advanced Sentiment Analysis of E-Learning Through Tweets
     <br> 
 </h3>
-<p>Welcome to the "Comprehensive Machine-Learning Analysis on Online Learning", a detailed project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
+<p>Machine-Learning Analysis on Online Learning is a project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
 
 </br>📝 Table of Contents
 
