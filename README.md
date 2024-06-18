@@ -11,11 +11,11 @@
 </br>📝 Table of Contents
 
 About the Project
-</br> [1)Key Features]#about_the_project
-</br> [2)Getting Started]#key_features
-</br> [3)Technology Stack]#getting_started"
-</br> [4)Screenshots]#screenshots"
-</br> [5)Author]#authors
+</br> [1)Key Features](#about_the_project)
+</br> [2)Getting Started](#key_features)
+</br> [3)Technology Stack](#getting_started")
+</br> [4)Screenshots](#screenshots")
+</br> [5)Author](#authors)
 
 </br> 🌐 About the Project <a name = "about_the_project"></a>
 
