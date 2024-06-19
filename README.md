@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width="200" alt="Online Learning Logo" src="![image]https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/9d8a03c2-0313-4c4d-a50e-9fb0f40b65ec">
+    <img width="200" alt="Online Learning Logo" src="https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/9d8a03c2-0313-4c4d-a50e-9fb0f40b65ec">
   </a>
 </p>
 <h3 align="center">Advanced Sentiment Analysis of online learning through Tweets
