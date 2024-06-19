@@ -1,12 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width="80" alt="Online Learning Logo" src="https://github.com/aninda20/online-learning-sentimental-analysis-webapp/blob/main/Logo1.JPG">
+    <img width="200" alt="Online Learning Logo" src="![image](https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/9d8a03c2-0313-4c4d-a50e-9fb0f40b65ec)">
   </a>
 </p>
-<h3 align="center">Advanced Sentiment Analysis of E-Learning Through Tweets
+<h3 align="center">Advanced Sentiment Analysis of online learning through Tweets
     <br> 
 </h3>
-<p>Machine-Learning Analysis on Online Learning is a project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain.</p>
+<p>Machine-Learning Analysis on Online Learning is a project focused on classifying tweets into positive, negative, and neutral sentiments to enhance social media analytics in the e-learning domain using machine learning models.</p>
 
 </br>📝 Table of Contents
 
